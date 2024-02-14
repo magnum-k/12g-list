@@ -1,0 +1,3 @@
+tv4play-atv.a2d.tv
+tv4-segments.a2d.tv
+reno-notifications.tv4.a2d.tv
