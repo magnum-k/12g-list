@@ -1,3 +1,7 @@
 tv4play-atv.a2d.tv
 tv4-segments.a2d.tv
 reno-notifications.tv4.a2d.tv
+playback2.a2d.tv
+a-fds.youborafds01.com
+pp.lp4.io
+tv4.video-tracking.a2d.tv
