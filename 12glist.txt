@@ -7,3 +7,10 @@ pp.lp4.io
 tv4.video-tracking.a2d.tv
 bumpers.tv4play.se
 se-tv4.videoplaza.tv
+a1818.dscw154.akamai.net
+e10499.dsce9.akamaiedge.net
+a113.dscv.akamai.net
+get-bx.g.aaplimg.com
+part-0025.t-0009.t-msedge.net
+d29sshy11yr8a1.cloudfront.net
+2949e9d1d7d0690426297cd79db71a0d032dc6ed53.uaid.imrworldwide.com
