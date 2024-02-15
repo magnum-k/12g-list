@@ -5,3 +5,5 @@ playback2.a2d.tv
 a-fds.youborafds01.com
 pp.lp4.io
 tv4.video-tracking.a2d.tv
+bumpers.tv4play.se
+se-tv4.videoplaza.tv
